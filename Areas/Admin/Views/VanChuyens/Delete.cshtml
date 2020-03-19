@@ -1,0 +1,34 @@
+﻿@model BookStore.Models.VanChuyen
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<br />
+<h2 class="text-info">Delete Van Chuyen</h2>
+
+<form method="post" asp-action="Delete">
+    <div class="p-4 border rounded">
+        <div class="form-group row">
+            <div class="col-2">
+                <label asp-for="Name"></label>
+            </div>
+            <div class="col-5">
+                <input asp-for="Name" readonly class="form-control" />
+            </div>
+        </div>
+        <div class="form-group row">
+            <div class="col-2">
+                <label asp-for="Phone"></label>
+            </div>
+            <div class="col-5">
+                <input asp-for="Phone" readonly class="form-control" />
+            </div>
+        </div>
+        <br />
+        <div class="form-group">
+            <input type="submit" class="btn btn-danger" asp-route-id="@Model.Id" value="Delete" />
+            <a asp-action="Index" class="btn btn-success">Back to List</a>
+        </div>
+    </div>
+</form>

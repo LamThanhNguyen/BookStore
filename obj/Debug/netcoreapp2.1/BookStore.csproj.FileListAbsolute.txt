@@ -1,0 +1,424 @@
+D:\.NET InterView Preparation videos\BookStore\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\.NET InterView Preparation videos\BookStore\bin\Debug\netcoreapp2.1\appsettings.json
+D:\.NET InterView Preparation videos\BookStore\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\.NET InterView Preparation videos\BookStore\bin\Debug\netcoreapp2.1\BookStore.deps.json
+D:\.NET InterView Preparation videos\BookStore\bin\Debug\netcoreapp2.1\BookStore.runtimeconfig.json
+D:\.NET InterView Preparation videos\BookStore\bin\Debug\netcoreapp2.1\BookStore.runtimeconfig.dev.json
+D:\.NET InterView Preparation videos\BookStore\bin\Debug\netcoreapp2.1\BookStore.dll
+D:\.NET InterView Preparation videos\BookStore\bin\Debug\netcoreapp2.1\BookStore.pdb
+D:\.NET InterView Preparation videos\BookStore\bin\Debug\netcoreapp2.1\BookStore.Views.dll
+D:\.NET InterView Preparation videos\BookStore\bin\Debug\netcoreapp2.1\BookStore.Views.pdb
+D:\.NET InterView Preparation videos\BookStore\obj\Debug\netcoreapp2.1\BookStore.RazorAssemblyInfo.cache
+D:\.NET InterView Preparation videos\BookStore\obj\Debug\netcoreapp2.1\BookStore.RazorAssemblyInfo.cs
+D:\.NET InterView Preparation videos\BookStore\obj\Debug\netcoreapp2.1\BookStore.AssemblyInfoInputs.cache
+D:\.NET InterView Preparation videos\BookStore\obj\Debug\netcoreapp2.1\BookStore.AssemblyInfo.cs
+D:\.NET InterView Preparation videos\BookStore\obj\Debug\netcoreapp2.1\BookStore.TagHelpers.input.cache
+D:\.NET InterView Preparation videos\BookStore\obj\Debug\netcoreapp2.1\BookStore.TagHelpers.output.cache
+D:\.NET InterView Preparation videos\BookStore\obj\Debug\netcoreapp2.1\BookStore.RazorCoreGenerate.cache
+D:\.NET InterView Preparation videos\BookStore\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\.NET InterView Preparation videos\BookStore\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+D:\.NET InterView Preparation videos\BookStore\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+D:\.NET InterView Preparation videos\BookStore\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\.NET InterView Preparation videos\BookStore\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\.NET InterView Preparation videos\BookStore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\.NET InterView Preparation videos\BookStore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+D:\.NET InterView Preparation videos\BookStore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\.NET InterView Preparation videos\BookStore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\.NET InterView Preparation videos\BookStore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\.NET InterView Preparation videos\BookStore\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\.NET InterView Preparation videos\BookStore\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\.NET InterView Preparation videos\BookStore\obj\Debug\netcoreapp2.1\BookStore.RazorTargetAssemblyInfo.cache
+D:\.NET InterView Preparation videos\BookStore\obj\Debug\netcoreapp2.1\BookStore.RazorTargetAssemblyInfo.cs
+D:\.NET InterView Preparation videos\BookStore\obj\Debug\netcoreapp2.1\BookStore.Views.pdb
+D:\.NET InterView Preparation videos\BookStore\obj\Debug\netcoreapp2.1\BookStore.dll
+D:\.NET InterView Preparation videos\BookStore\obj\Debug\netcoreapp2.1\BookStore.pdb
+D:\.NET InterView Preparation videos\BookStore\obj\Debug\netcoreapp2.1\BookStore.csproj.CopyComplete
+D:\.NET InterView Preparation videos\BookStore\obj\Debug\netcoreapp2.1\BookStore.csprojAssemblyReference.cache
+D:\.NET InterView Preparation videos\BookStore\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+D:\.NET InterView Preparation videos\BookStore\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+D:\.NET InterView Preparation videos\BookStore\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+D:\.NET InterView Preparation videos\BookStore\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+D:\.NET InterView Preparation videos\BookStore\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+D:\.NET InterView Preparation videos\BookStore\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+D:\.NET InterView Preparation videos\BookStore\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+D:\.NET InterView Preparation videos\BookStore\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+D:\.NET InterView Preparation videos\BookStore\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+D:\.NET InterView Preparation videos\BookStore\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+D:\.NET InterView Preparation videos\BookStore\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+D:\.NET InterView Preparation videos\BookStore\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+D:\.NET InterView Preparation videos\BookStore\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+D:\.NET InterView Preparation videos\BookStore\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+D:\.NET InterView Preparation videos\BookStore\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+D:\.NET InterView Preparation videos\BookStore\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+D:\.NET InterView Preparation videos\BookStore\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+D:\.NET InterView Preparation videos\BookStore\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+D:\.NET InterView Preparation videos\BookStore\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+D:\.NET InterView Preparation videos\BookStore\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+D:\.NET InterView Preparation videos\BookStore\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+D:\.NET InterView Preparation videos\BookStore\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+D:\.NET InterView Preparation videos\BookStore\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+D:\.NET InterView Preparation videos\BookStore\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+D:\.NET InterView Preparation videos\BookStore\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+D:\.NET InterView Preparation videos\BookStore\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+D:\.NET InterView Preparation videos\BookStore\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+D:\.NET InterView Preparation videos\BookStore\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+D:\.NET InterView Preparation videos\BookStore\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+D:\.NET InterView Preparation videos\BookStore\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+D:\.NET InterView Preparation videos\BookStore\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+D:\.NET InterView Preparation videos\BookStore\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+D:\.NET InterView Preparation videos\BookStore\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+D:\.NET InterView Preparation videos\BookStore\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+D:\Đồ Án Web\BookStore\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\Đồ Án Web\BookStore\bin\Debug\netcoreapp2.1\appsettings.json
+D:\Đồ Án Web\BookStore\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\Đồ Án Web\BookStore\bin\Debug\netcoreapp2.1\BookStore.deps.json
+D:\Đồ Án Web\BookStore\bin\Debug\netcoreapp2.1\BookStore.runtimeconfig.json
+D:\Đồ Án Web\BookStore\bin\Debug\netcoreapp2.1\BookStore.runtimeconfig.dev.json
+D:\Đồ Án Web\BookStore\bin\Debug\netcoreapp2.1\BookStore.dll
+D:\Đồ Án Web\BookStore\bin\Debug\netcoreapp2.1\BookStore.pdb
+D:\Đồ Án Web\BookStore\bin\Debug\netcoreapp2.1\BookStore.Views.dll
+D:\Đồ Án Web\BookStore\bin\Debug\netcoreapp2.1\BookStore.Views.pdb
+D:\Đồ Án Web\BookStore\obj\Debug\netcoreapp2.1\BookStore.csprojAssemblyReference.cache
+D:\Đồ Án Web\BookStore\obj\Debug\netcoreapp2.1\BookStore.RazorAssemblyInfo.cache
+D:\Đồ Án Web\BookStore\obj\Debug\netcoreapp2.1\BookStore.RazorAssemblyInfo.cs
+D:\Đồ Án Web\BookStore\obj\Debug\netcoreapp2.1\BookStore.AssemblyInfoInputs.cache
+D:\Đồ Án Web\BookStore\obj\Debug\netcoreapp2.1\BookStore.AssemblyInfo.cs
+D:\Đồ Án Web\BookStore\obj\Debug\netcoreapp2.1\BookStore.TagHelpers.input.cache
+D:\Đồ Án Web\BookStore\obj\Debug\netcoreapp2.1\BookStore.TagHelpers.output.cache
+D:\Đồ Án Web\BookStore\obj\Debug\netcoreapp2.1\BookStore.RazorCoreGenerate.cache
+D:\Đồ Án Web\BookStore\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+D:\Đồ Án Web\BookStore\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+D:\Đồ Án Web\BookStore\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+D:\Đồ Án Web\BookStore\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+D:\Đồ Án Web\BookStore\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+D:\Đồ Án Web\BookStore\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+D:\Đồ Án Web\BookStore\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+D:\Đồ Án Web\BookStore\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+D:\Đồ Án Web\BookStore\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+D:\Đồ Án Web\BookStore\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+D:\Đồ Án Web\BookStore\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+D:\Đồ Án Web\BookStore\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+D:\Đồ Án Web\BookStore\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+D:\Đồ Án Web\BookStore\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+D:\Đồ Án Web\BookStore\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+D:\Đồ Án Web\BookStore\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+D:\Đồ Án Web\BookStore\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+D:\Đồ Án Web\BookStore\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+D:\Đồ Án Web\BookStore\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+D:\Đồ Án Web\BookStore\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+D:\Đồ Án Web\BookStore\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+D:\Đồ Án Web\BookStore\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+D:\Đồ Án Web\BookStore\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+D:\Đồ Án Web\BookStore\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+D:\Đồ Án Web\BookStore\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+D:\Đồ Án Web\BookStore\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+D:\Đồ Án Web\BookStore\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+D:\Đồ Án Web\BookStore\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+D:\Đồ Án Web\BookStore\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+D:\Đồ Án Web\BookStore\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+D:\Đồ Án Web\BookStore\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+D:\Đồ Án Web\BookStore\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+D:\Đồ Án Web\BookStore\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+D:\Đồ Án Web\BookStore\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\Đồ Án Web\BookStore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Đồ Án Web\BookStore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+D:\Đồ Án Web\BookStore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Đồ Án Web\BookStore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\Đồ Án Web\BookStore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Đồ Án Web\BookStore\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Đồ Án Web\BookStore\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Đồ Án Web\BookStore\obj\Debug\netcoreapp2.1\BookStore.RazorTargetAssemblyInfo.cache
+D:\Đồ Án Web\BookStore\obj\Debug\netcoreapp2.1\BookStore.RazorTargetAssemblyInfo.cs
+D:\Đồ Án Web\BookStore\obj\Debug\netcoreapp2.1\BookStore.Views.pdb
+D:\Đồ Án Web\BookStore\obj\Debug\netcoreapp2.1\BookStore.dll
+D:\Đồ Án Web\BookStore\obj\Debug\netcoreapp2.1\BookStore.pdb
+D:\Đồ Án Web\BookStore\obj\Debug\netcoreapp2.1\BookStore.csproj.CopyComplete
+D:\Đồ Án Web\BookStore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+D:\Đồ Án Web\BookStore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+D:\Đồ Án Web\BookStore\obj\Debug\netcoreapp2.1\Razor\Areas\Customer\Views\_ViewImports.cshtml.g.cs
+D:\Đồ Án Web\BookStore\obj\Debug\netcoreapp2.1\Razor\Areas\Customer\Views\_ViewStart.cshtml.g.cs
+D:\Đồ Án Web\BookStore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_TableButtonPartial.cshtml.g.cs
+D:\Đồ Án Web\BookStore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\TacGias\Create.cshtml.g.cs
+D:\Đồ Án Web\BookStore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\TacGias\Delete.cshtml.g.cs
+D:\Đồ Án Web\BookStore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\TacGias\Details.cshtml.g.cs
+D:\Đồ Án Web\BookStore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\TacGias\Edit.cshtml.g.cs
+D:\Đồ Án Web\BookStore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\TacGias\Index.cshtml.g.cs
+D:\Đồ Án Web\BookStore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\TheLoais\Create.cshtml.g.cs
+D:\Đồ Án Web\BookStore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\TheLoais\Delete.cshtml.g.cs
+D:\Đồ Án Web\BookStore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\TheLoais\Details.cshtml.g.cs
+D:\Đồ Án Web\BookStore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\TheLoais\Edit.cshtml.g.cs
+D:\Đồ Án Web\BookStore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\TheLoais\Index.cshtml.g.cs
+D:\Đồ Án Web\BookStore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\XuatBans\Create.cshtml.g.cs
+D:\Đồ Án Web\BookStore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\XuatBans\Delete.cshtml.g.cs
+D:\Đồ Án Web\BookStore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\XuatBans\Details.cshtml.g.cs
+D:\Đồ Án Web\BookStore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\XuatBans\Edit.cshtml.g.cs
+D:\Đồ Án Web\BookStore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\XuatBans\Index.cshtml.g.cs
+D:\Đồ Án Web\BookStore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\VanChuyens\Create.cshtml.g.cs
+D:\Đồ Án Web\BookStore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\VanChuyens\Delete.cshtml.g.cs
+D:\Đồ Án Web\BookStore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\VanChuyens\Details.cshtml.g.cs
+D:\Đồ Án Web\BookStore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\VanChuyens\Edit.cshtml.g.cs
+D:\Đồ Án Web\BookStore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\VanChuyens\Index.cshtml.g.cs
+D:\Đồ Án Web\BookStore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\AdminUsers\Index.cshtml.g.cs
+D:\Đồ Án Web\BookStore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\AdminUsers\Edit.cshtml.g.cs
+D:\Đồ Án Web\BookStore\obj\Debug\netcoreapp2.1\Razor\Areas\Customer\Views\ShoppingCart\Index.cshtml.g.cs
+D:\Đồ Án Web\BookStore\obj\Debug\netcoreapp2.1\Razor\Areas\Customer\Views\ShoppingCart\Summary.cshtml.g.cs
+D:\Đồ Án Web\BookStore\obj\Debug\netcoreapp2.1\Razor\Areas\Customer\Views\Home\Index.cshtml.g.cs
+D:\Đồ Án Web\BookStore\obj\Debug\netcoreapp2.1\Razor\Areas\Customer\Views\Home\Details.cshtml.g.cs
+D:\Đồ Án Web\BookStore\obj\Debug\netcoreapp2.1\Razor\Areas\Customer\Views\Home\Privacy.cshtml.g.cs
+D:\Đồ Án Web\BookStore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_IndividualOrderDetails.cshtml.g.cs
+D:\Đồ Án Web\BookStore\obj\Debug\netcoreapp2.1\Razor\Areas\Customer\Views\Order\Confirm.cshtml.g.cs
+D:\Đồ Án Web\BookStore\obj\Debug\netcoreapp2.1\Razor\Areas\Customer\Views\Order\ManageOrder.cshtml.g.cs
+D:\Đồ Án Web\BookStore\obj\Debug\netcoreapp2.1\Razor\Areas\Customer\Views\Order\OrderHistory.cshtml.g.cs
+D:\Đồ Án Web\BookStore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CreateButtonPartial2.cshtml.g.cs
+D:\Đồ Án Web\BookStore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\UserName\Default.cshtml.g.cs
+D:\Đồ Án Web\BookStore\obj\Debug\netcoreapp2.1\Razor\Areas\Customer\Views\Order\OrderPickup.cshtml.g.cs
+D:\Đồ Án Web\BookStore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ThanhToans\Create.cshtml.g.cs
+D:\Đồ Án Web\BookStore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ThanhToans\Delete.cshtml.g.cs
+D:\Đồ Án Web\BookStore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ThanhToans\Details.cshtml.g.cs
+D:\Đồ Án Web\BookStore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ThanhToans\Edit.cshtml.g.cs
+D:\Đồ Án Web\BookStore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ThanhToans\Index.cshtml.g.cs
+D:\Đồ Án Web\BookStore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_OrderStatus.cshtml.g.cs
+D:\Đồ Án Web\BookStore\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+D:\Đồ Án Web\BookStore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\TableButtonPartial2.cshtml.g.cs
+D:\Đồ Án Web\BookStore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ThumbnailAreaPartial.cshtml.g.cs
+D:\Đồ Án Web\BookStore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Books\Create.cshtml.g.cs
+D:\Đồ Án Web\BookStore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Books\Delete.cshtml.g.cs
+D:\Đồ Án Web\BookStore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Books\Details.cshtml.g.cs
+D:\Đồ Án Web\BookStore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Books\Edit.cshtml.g.cs
+D:\Đồ Án Web\BookStore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Books\Index.cshtml.g.cs
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\bin\Debug\netcoreapp2.1\appsettings.json
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\bin\Debug\netcoreapp2.1\BookStore.deps.json
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\bin\Debug\netcoreapp2.1\BookStore.runtimeconfig.json
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\bin\Debug\netcoreapp2.1\BookStore.runtimeconfig.dev.json
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\bin\Debug\netcoreapp2.1\BookStore.dll
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\bin\Debug\netcoreapp2.1\BookStore.pdb
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\bin\Debug\netcoreapp2.1\BookStore.Views.dll
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\bin\Debug\netcoreapp2.1\BookStore.Views.pdb
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\obj\Debug\netcoreapp2.1\BookStore.csprojAssemblyReference.cache
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\obj\Debug\netcoreapp2.1\BookStore.RazorAssemblyInfo.cache
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\obj\Debug\netcoreapp2.1\BookStore.RazorAssemblyInfo.cs
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\obj\Debug\netcoreapp2.1\BookStore.AssemblyInfoInputs.cache
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\obj\Debug\netcoreapp2.1\BookStore.AssemblyInfo.cs
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\obj\Debug\netcoreapp2.1\BookStore.TagHelpers.input.cache
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\obj\Debug\netcoreapp2.1\BookStore.TagHelpers.output.cache
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\obj\Debug\netcoreapp2.1\BookStore.RazorCoreGenerate.cache
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\AdminUsers\Edit.cshtml.g.cs
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\AdminUsers\Index.cshtml.g.cs
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Books\Create.cshtml.g.cs
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Books\Delete.cshtml.g.cs
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Books\Details.cshtml.g.cs
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Books\Edit.cshtml.g.cs
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Books\Index.cshtml.g.cs
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\TacGias\Create.cshtml.g.cs
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\TacGias\Delete.cshtml.g.cs
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\TacGias\Details.cshtml.g.cs
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\TacGias\Edit.cshtml.g.cs
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\TacGias\Index.cshtml.g.cs
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ThanhToans\Create.cshtml.g.cs
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ThanhToans\Delete.cshtml.g.cs
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ThanhToans\Details.cshtml.g.cs
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ThanhToans\Edit.cshtml.g.cs
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ThanhToans\Index.cshtml.g.cs
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\TheLoais\Create.cshtml.g.cs
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\TheLoais\Delete.cshtml.g.cs
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\TheLoais\Details.cshtml.g.cs
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\TheLoais\Edit.cshtml.g.cs
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\TheLoais\Index.cshtml.g.cs
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\VanChuyens\Create.cshtml.g.cs
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\VanChuyens\Delete.cshtml.g.cs
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\VanChuyens\Details.cshtml.g.cs
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\VanChuyens\Edit.cshtml.g.cs
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\VanChuyens\Index.cshtml.g.cs
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\XuatBans\Create.cshtml.g.cs
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\XuatBans\Delete.cshtml.g.cs
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\XuatBans\Details.cshtml.g.cs
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\XuatBans\Edit.cshtml.g.cs
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\XuatBans\Index.cshtml.g.cs
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\obj\Debug\netcoreapp2.1\Razor\Areas\Customer\Views\Home\Details.cshtml.g.cs
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\obj\Debug\netcoreapp2.1\Razor\Areas\Customer\Views\Home\Index.cshtml.g.cs
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\obj\Debug\netcoreapp2.1\Razor\Areas\Customer\Views\Home\Privacy.cshtml.g.cs
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\obj\Debug\netcoreapp2.1\Razor\Areas\Customer\Views\Order\Confirm.cshtml.g.cs
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\obj\Debug\netcoreapp2.1\Razor\Areas\Customer\Views\Order\ManageOrder.cshtml.g.cs
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\obj\Debug\netcoreapp2.1\Razor\Areas\Customer\Views\Order\OrderHistory.cshtml.g.cs
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\obj\Debug\netcoreapp2.1\Razor\Areas\Customer\Views\Order\OrderPickup.cshtml.g.cs
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\obj\Debug\netcoreapp2.1\Razor\Areas\Customer\Views\ShoppingCart\Index.cshtml.g.cs
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\obj\Debug\netcoreapp2.1\Razor\Areas\Customer\Views\ShoppingCart\Summary.cshtml.g.cs
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\obj\Debug\netcoreapp2.1\Razor\Areas\Customer\Views\_ViewImports.cshtml.g.cs
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\obj\Debug\netcoreapp2.1\Razor\Areas\Customer\Views\_ViewStart.cshtml.g.cs
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\UserName\Default.cshtml.g.cs
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\TableButtonPartial2.cshtml.g.cs
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CreateButtonPartial2.cshtml.g.cs
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_IndividualOrderDetails.cshtml.g.cs
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_OrderStatus.cshtml.g.cs
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_TableButtonPartial.cshtml.g.cs
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ThumbnailAreaPartial.cshtml.g.cs
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\obj\Debug\netcoreapp2.1\BookStore.RazorTargetAssemblyInfo.cache
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\obj\Debug\netcoreapp2.1\BookStore.RazorTargetAssemblyInfo.cs
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\obj\Debug\netcoreapp2.1\BookStore.Views.pdb
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\obj\Debug\netcoreapp2.1\BookStore.dll
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\obj\Debug\netcoreapp2.1\BookStore.pdb
+D:\Web Developer\BáoCáoWeb_17110324_NguyễnThanhLâm-17110281_TrầnHồngĐiệp\BookStore_17110324_NguyễnThanhLâm_17110281_TrầnHồngĐiệp\obj\Debug\netcoreapp2.1\BookStore.csproj.CopyComplete
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\bin\Debug\netcoreapp2.1\appsettings.json
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\bin\Debug\netcoreapp2.1\BookStore.deps.json
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\bin\Debug\netcoreapp2.1\BookStore.runtimeconfig.json
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\bin\Debug\netcoreapp2.1\BookStore.runtimeconfig.dev.json
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\bin\Debug\netcoreapp2.1\BookStore.dll
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\bin\Debug\netcoreapp2.1\BookStore.pdb
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\bin\Debug\netcoreapp2.1\BookStore.Views.dll
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\bin\Debug\netcoreapp2.1\BookStore.Views.pdb
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\obj\Debug\netcoreapp2.1\BookStore.csprojAssemblyReference.cache
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\obj\Debug\netcoreapp2.1\BookStore.RazorAssemblyInfo.cache
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\obj\Debug\netcoreapp2.1\BookStore.RazorAssemblyInfo.cs
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\obj\Debug\netcoreapp2.1\BookStore.AssemblyInfoInputs.cache
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\obj\Debug\netcoreapp2.1\BookStore.AssemblyInfo.cs
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\obj\Debug\netcoreapp2.1\BookStore.TagHelpers.input.cache
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\obj\Debug\netcoreapp2.1\BookStore.TagHelpers.output.cache
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\obj\Debug\netcoreapp2.1\BookStore.RazorCoreGenerate.cache
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\AdminUsers\Edit.cshtml.g.cs
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\AdminUsers\Index.cshtml.g.cs
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Books\Create.cshtml.g.cs
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Books\Delete.cshtml.g.cs
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Books\Details.cshtml.g.cs
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Books\Edit.cshtml.g.cs
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Books\Index.cshtml.g.cs
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\TacGias\Create.cshtml.g.cs
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\TacGias\Delete.cshtml.g.cs
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\TacGias\Details.cshtml.g.cs
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\TacGias\Edit.cshtml.g.cs
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\TacGias\Index.cshtml.g.cs
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ThanhToans\Create.cshtml.g.cs
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ThanhToans\Delete.cshtml.g.cs
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ThanhToans\Details.cshtml.g.cs
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ThanhToans\Edit.cshtml.g.cs
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ThanhToans\Index.cshtml.g.cs
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\TheLoais\Create.cshtml.g.cs
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\TheLoais\Delete.cshtml.g.cs
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\TheLoais\Details.cshtml.g.cs
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\TheLoais\Edit.cshtml.g.cs
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\TheLoais\Index.cshtml.g.cs
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\VanChuyens\Create.cshtml.g.cs
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\VanChuyens\Delete.cshtml.g.cs
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\VanChuyens\Details.cshtml.g.cs
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\VanChuyens\Edit.cshtml.g.cs
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\VanChuyens\Index.cshtml.g.cs
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\XuatBans\Create.cshtml.g.cs
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\XuatBans\Delete.cshtml.g.cs
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\XuatBans\Details.cshtml.g.cs
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\XuatBans\Edit.cshtml.g.cs
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\XuatBans\Index.cshtml.g.cs
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\obj\Debug\netcoreapp2.1\Razor\Areas\Customer\Views\Home\Details.cshtml.g.cs
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\obj\Debug\netcoreapp2.1\Razor\Areas\Customer\Views\Home\Index.cshtml.g.cs
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\obj\Debug\netcoreapp2.1\Razor\Areas\Customer\Views\Home\Privacy.cshtml.g.cs
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\obj\Debug\netcoreapp2.1\Razor\Areas\Customer\Views\Order\Confirm.cshtml.g.cs
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\obj\Debug\netcoreapp2.1\Razor\Areas\Customer\Views\Order\ManageOrder.cshtml.g.cs
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\obj\Debug\netcoreapp2.1\Razor\Areas\Customer\Views\Order\OrderHistory.cshtml.g.cs
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\obj\Debug\netcoreapp2.1\Razor\Areas\Customer\Views\Order\OrderPickup.cshtml.g.cs
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\obj\Debug\netcoreapp2.1\Razor\Areas\Customer\Views\ShoppingCart\Index.cshtml.g.cs
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\obj\Debug\netcoreapp2.1\Razor\Areas\Customer\Views\ShoppingCart\Summary.cshtml.g.cs
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\obj\Debug\netcoreapp2.1\Razor\Areas\Customer\Views\_ViewImports.cshtml.g.cs
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\obj\Debug\netcoreapp2.1\Razor\Areas\Customer\Views\_ViewStart.cshtml.g.cs
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\UserName\Default.cshtml.g.cs
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\obj\Debug\netcoreapp2.1\Razor\Views\Shared\TableButtonPartial2.cshtml.g.cs
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CreateButtonPartial2.cshtml.g.cs
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_IndividualOrderDetails.cshtml.g.cs
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_OrderStatus.cshtml.g.cs
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_TableButtonPartial.cshtml.g.cs
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ThumbnailAreaPartial.cshtml.g.cs
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\obj\Debug\netcoreapp2.1\BookStore.RazorTargetAssemblyInfo.cache
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\obj\Debug\netcoreapp2.1\BookStore.RazorTargetAssemblyInfo.cs
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\obj\Debug\netcoreapp2.1\BookStore.Views.pdb
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\obj\Debug\netcoreapp2.1\BookStore.dll
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\obj\Debug\netcoreapp2.1\BookStore.pdb
+D:\HKII-2019-2020-Third Year\Bảo Mật Web\Nộp mô tả báo cáo Project\Source Code Book Store\obj\Debug\netcoreapp2.1\BookStore.csproj.CopyComplete

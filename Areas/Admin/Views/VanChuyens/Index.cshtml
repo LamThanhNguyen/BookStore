@@ -1,0 +1,48 @@
+﻿@model IEnumerable<BookStore.Models.VanChuyen>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<br />
+<br />
+
+<div class="row">
+    <div class="col-6">
+        <h2 class="text-info">Danh Sách Vận Chuyển</h2>
+    </div>
+    <div class="col-6 text-right">
+        <a asp-action="Create" class="btn btn-info"><i class="fas fa-plus"></i>&nbsp; New Van Chuyen</a>
+    </div>
+</div>
+
+<br />
+
+<div>
+    <table class="table table-striped border">
+        <tr class="table-info">
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Phone)
+            </th>
+            <th></th>
+            <th></th>
+        </tr>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Phone)
+                </td>
+                <td>
+                    <partial name="_TableButtonPartial" model="item.Id" />
+                </td>
+            </tr>
+        }
+    </table>
+</div>

@@ -1,0 +1,104 @@
+﻿@model BookStore.Models.ShoppingCart
+@using BookStore.Extensions
+
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<br />
+<h2 class="text-info">Book Details</h2>
+<br />
+
+<form method="post">
+    <div class="border backgroundWhite row">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <div class="col-12 pb-4 d-md-none">
+            <img src="@Model.Book.Image" width="100%" style="border-radius:5px; border: 1px solid #bbb9b9;" />
+        </div>
+        <div class="col-md-8">
+            <div class="form-group row">
+                <div class="col-md-4">
+                    <label asp-for="Book.Name" class="text-info font-weight-bold"></label>
+                </div>
+                <div class="col-md-8">
+                    <input asp-for="Book.Name" readonly class="form-control" />
+                </div>
+            </div>
+            <div class="form-group row">
+                <div class="col-md-4">
+                    <label asp-for="Book.SoTrang" class="text-info font-weight-bold"></label>
+                </div>
+                <div class="col-md-8">
+                    <input asp-for="Book.SoTrang" readonly class="form-control" />
+                </div>
+            </div>
+            <div class="form-group row">
+                <div class="col-md-4">
+                    <label asp-for="Book.Price" class="text-info font-weight-bold"></label>
+                </div>
+                <div class="col-md-8">
+                    <input asp-for="Book.Price" readonly class="form-control" />
+                </div>
+            </div>
+            <div class="form-group row">
+                <div class="col-md-4">
+                    <label asp-for="Book.Discount" class="text-info font-weight-bold"></label>
+                </div>
+                <div class="col-md-8">
+                    <input asp-for="Book.Discount" readonly class="form-control" />
+                </div>
+            </div>
+            <div class="form-group row">
+                <div class="col-md-4">
+                    <label asp-for="Book.TacGiaId" class="text-info font-weight-bold"></label>
+                </div>
+                <div class="col-md-8">
+                    <input asp-for="Book.TacGia.Name" readonly class="form-control" />
+                </div>
+            </div>
+            <div class="form-group row">
+                <div class="col-md-4">
+                    <label asp-for="Book.TheLoaiId" class="text-info font-weight-bold"></label>
+                </div>
+                <div class="col-md-8">
+                    <input asp-for="Book.TheLoai.Name" readonly class="form-control" />
+                </div>
+            </div> 
+            <div class="form-group row">
+                <div class="col-md-4">
+                    <label asp-for="Book.XuatBanId" class="text-info font-weight-bold"></label>
+                </div>
+                <div class="col-md-8">
+                    <input asp-for="Book.XuatBan.Name" readonly class="form-control" />
+                </div>
+            </div>
+            <div class="form-group row">
+                <div class="col-md-4">
+                    <label asp-for="Count" class="text-info font-weight-bold"></label>
+                </div>
+                <div class="col-md-8">
+                    <input asp-for="Count" class="form-control" />
+                    <span asp-validation-for="Count" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="form-group row">
+                <div class="col-md-4">
+
+                </div>
+                <div class="col-md-4">
+                    <button type="submit" value="Add to Cart" class="btn btn-primary form-control">Add to Cart</button>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3 offset-1 d-none d-md-block">
+            <img src="@Model.Book.Image" width="100%" style="border-radius:5px; border: 1px solid #bbb9b9;" />
+        </div>
+    </div>
+    <input asp-for="BookId" hidden />
+</form>
+
+@section Scripts{ 
+
+    @{ await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

@@ -1,0 +1,108 @@
+﻿@model BookStore.Models.Book
+
+@{
+    ViewData["Title"] = "Delete";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<br />
+<h2 class="text-info">Delete Book</h2>
+<form method="post">
+    <div class="backgroundWhiteBorder row">
+        <div class="col-8">
+            <input type="hidden" asp-for="Id" />
+            <fieldset disabled>
+                <div class="form-group row">
+                    <div class="col-4">
+                        @Html.DisplayNameFor(model => model.Name)
+                    </div>
+                    <div class="col-8">
+                        @Html.DisplayFor(model => model.Name)
+                    </div>
+                </div>
+                <div class="form-group row">
+                    <div class="col-4">
+                        @Html.DisplayNameFor(model => model.SoTrang)
+                    </div>
+                    <div class="col-8">
+                        @Html.DisplayFor(model => model.SoTrang)
+                    </div>
+                </div>
+                <div class="form-group row">
+                    <div class="col-4">
+                        @Html.DisplayNameFor(model => model.Image)
+                    </div>
+                    <div class="col-8">
+                        @Html.DisplayFor(model => model.Image)
+                    </div>
+                </div>
+                <div class="form-group row">
+                    <div class="col-4">
+                        @Html.DisplayNameFor(model => model.Price)
+                    </div>
+                    <div class="col-8">
+                        @Html.DisplayFor(model => model.Price)
+                    </div>
+                </div>
+                <div class="form-group row">
+                    <div class="col-4">
+                        @Html.DisplayNameFor(model => model.Discount)
+                    </div>
+                    <div class="col-8">
+                        @Html.DisplayFor(model => model.Discount)
+                    </div>
+                </div>
+                <div class="form-group row">
+                    <div class="col-4">
+                        @Html.DisplayNameFor(model => model.TheLoai)
+                    </div>
+                    <div class="col-8">
+                        @Html.DisplayFor(model => model.TheLoai.Name)
+                    </div>
+                </div>
+                <div class="form-group row">
+                    <div class="col-4">
+                        @Html.DisplayNameFor(model => model.XuatBan)
+                    </div>
+                    <div class="col-8">
+                        @Html.DisplayFor(model => model.XuatBan.Name)
+                    </div>
+                </div>
+                <div class="form-group row">
+                    <div class="col-4">
+                        @Html.DisplayNameFor(model => model.TacGia)
+                    </div>
+                    <div class="col-8">
+                        @Html.DisplayFor(model => model.TacGia.Name)
+                    </div>
+                </div>
+            </fieldset>
+        </div>
+        <div class="col-1"></div>
+        <div class="col-3">
+            <img src="@Model.Image" width="100%" style="border-radius:5px; border: 1px solid #bbb9b9;" />
+        </div>
+        <div class="col-8">
+            <div class="col-8 offset-4">
+                <form asp-action="Delete">
+                    <input type="hidden" asp-for="Id" />
+                    <input type="submit" value="Delete" class="btn btn-danger form-control" />
+                    <a asp-action="Index" class="btn btn-success form-control">Back to List</a>
+                </form>
+            </div>
+        </div>
+    </div>
+</form>
+
+@section Scripts{
+    <script>tinymce.init({
+                selector: 'textarea',
+                plugins: "lists",
+                toolbar: "undo redo | styleselect | bold italic | alignleft aligncenter alignright alignjustify | bullist numlist",
+                menubar: 'file edit format',
+                readonly: 1
+            });</script>
+    <script>tinymce.init({ selector: 'textarea' });</script>
+
+}

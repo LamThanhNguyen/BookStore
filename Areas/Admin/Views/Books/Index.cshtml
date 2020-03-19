@@ -1,0 +1,91 @@
+﻿@model IEnumerable<BookStore.Models.Book>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<br />
+<br />
+<div class="border backgroundWhite">
+    <div class="row">
+        <div class="col-6">
+            <h2 class="text-info">Book List</h2>
+        </div>
+        <div class="col-6 text-right">
+            <partial name="_CreateButtonPartial2" />
+        </div>
+    </div>
+    <br />
+    <div>
+        @if (Model.Count() > 0)
+        {
+            <table class="table table-striped border">
+                <tr class="table-secondary">
+                    <th>
+                        @Html.DisplayNameFor(model => model.Name)
+                    </th>
+                    @*<th>
+                        @Html.DisplayNameFor(model => model.SoTrang)
+                    </th>*@
+                    @*<th>
+                        @Html.DisplayNameFor(model => model.Image)
+                    </th>*@
+                    <th>
+                        @Html.DisplayNameFor(model => model.Price)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Discount)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.TheLoai)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.XuatBan)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.TacGia)
+                    </th>
+                    <th></th>
+                </tr>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Name)
+                        </td>
+                        @*<td>
+                            @Html.DisplayFor(modelItem => item.SoTrang)
+                        </td>*@
+                        @*<td>
+                            @Html.DisplayFor(modelItem => item.Image)
+                        </td>*@
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Price)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Discount)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.TheLoai.Name)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.XuatBan.Name)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.TacGia.Name)
+                        </td>
+                        <td>
+                            <partial name="_TableButtonPartial" model="item.Id" />
+                        </td>
+                    </tr>
+                }
+            </table>
+        }
+        else
+        {
+            <p>No Book exists...</p>
+        }
+    </div>
+</div>
